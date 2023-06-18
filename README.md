@@ -1,11 +1,20 @@
 <!--
 - ICONS: https://devicon.dev/
--->
+
 
 <div id="header" align="center">
 
   <img src="https://user-images.githubusercontent.com/51710576/224103411-fa8829cc-75fc-422c-9c44-049217a36a4e.png" width="1600"/>
-  <div id="badges">
+  
+</div>
+
+  <h1>
+  </h1>-->
+
+<h1 align="center">Hi 👋, I'm Davi Pinho</h1>
+<h3 align="center">A backend developer from Brazil</h3>
+
+<div id="badges" align="center">
     <a href="mailto:davi.pinho435@gmail.com?subject=GitHub Contact">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
@@ -13,10 +22,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-</div>
-
-  <h1>
-  </h1>
 
 <details  align="center">
   <summary  style="font-size:30px; color:#03989EFF">Technologies and Tools</summary>
