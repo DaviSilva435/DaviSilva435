@@ -1,15 +1,6 @@
 <!--
 - ICONS: https://devicon.dev/
-
-
-<div id="header" align="center">
-
-  <img src="https://user-images.githubusercontent.com/51710576/224103411-fa8829cc-75fc-422c-9c44-049217a36a4e.png" width="1600"/>
-  
-</div>
-
-  <h1>
-  </h1>-->
+-->
 
 <h1 align="center">Hi 👋, I'm Davi Pinho</h1>
 <h3 align="center">A backend developer from Brazil</h3>
@@ -22,6 +13,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+
+  <h1></h1>
 
 <details  align="center">
   <summary  style="font-size:30px; color:#03989EFF">Technologies and Tools</summary>
